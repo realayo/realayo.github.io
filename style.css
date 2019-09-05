@@ -7,7 +7,7 @@ div
     }
 #header
 {
-    position: relative;
+    position: static;
     z-index: 1;
     height:50px;
     width: 98%;
